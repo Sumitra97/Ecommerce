@@ -1,0 +1,4 @@
+2019-05-23T10:41:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\widgets\class-wp-widget-links.php on line 17
+
+2019-05-23T10:45:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\src\Modules\Licenser.php on line 18
+

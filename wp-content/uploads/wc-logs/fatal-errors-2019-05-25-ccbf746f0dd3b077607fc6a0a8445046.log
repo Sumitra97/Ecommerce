@@ -1,0 +1,20 @@
+2019-05-25T00:00:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\walker\init.php on line 8
+
+2019-05-25T00:00:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\customizer\settings\sidebar.php on line 8
+
+2019-05-25T00:01:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\elementor-extra-widgets\widgets\woo\best-products.php on line 8
+
+2019-05-25T00:01:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\premium-addons-for-elementor\widgets\premium-carousel.php on line 3
+
+2019-05-25T00:02:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce\includes\log-handlers\class-wc-log-handler-file.php on line 412
+
+2019-05-25T00:02:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-25T00:14:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-25T00:14:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-25T03:04:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-05-25T03:04:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 163
+

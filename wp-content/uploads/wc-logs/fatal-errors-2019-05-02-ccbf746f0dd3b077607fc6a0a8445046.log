@@ -1,0 +1,50 @@
+2019-05-02T07:11:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-02T07:21:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\essential-addons-for-elementor-lite\elements\Eael_Flip_Box.php on line 5
+
+2019-05-02T08:29:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\contact-form-7\modules\number.php on line 10
+
+2019-05-02T08:29:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce\includes\libraries\geolite2\Reader\Util.php on line 13
+
+2019-05-02T08:29:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\src\Modules\Translate.php on line 18
+
+2019-05-02T08:30:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\widgets\heading.php on line 4
+
+2019-05-02T08:32:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce\templates\archive-product.php on line 20
+
+2019-05-02T11:57:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_QueueRunner.php on line 6
+
+2019-05-02T11:57:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor-addon-widgets\vendor\codeinwp\themeisle-sdk\src\Modules\Licenser.php on line 18
+
+2019-05-02T12:26:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-02T13:04:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-admin\includes\file.php on line 16
+
+2019-05-02T13:18:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-02T13:18:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-05-02T13:18:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\wp-db.php on line 2007
+
+2019-05-02T13:18:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\autoloader.php on line 247
+
+2019-05-02T13:18:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\autoloader.php on line 247
+
+2019-05-02T13:18:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\frontend.php on line 13
+
+2019-05-02T13:18:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\customizer\settings\topbar.php on line 8
+
+2019-05-02T13:19:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\premium-addons-for-elementor\includes\system-info.php on line 3
+
+2019-05-02T13:19:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\wpforms-lite\src\Admin\Challenge.php on line 14
+
+2019-05-02T13:19:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\mailchimp-for-woocommerce\admin\class-mailchimp-woocommerce-admin.php on line 23
+
+2019-05-02T13:19:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-service.php on line 11
+
+2019-05-02T13:19:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\helpers.php on line 30
+
+2019-05-02T13:19:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\customizer\settings\woocommerce.php on line 8
+
+2019-05-02T13:55:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\core\documents-manager.php on line 12
+

@@ -1,0 +1,20 @@
+2019-05-17T14:59:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-rest-api.php on line 3
+
+2019-05-17T14:59:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\themes\oceanwp\inc\customizer\settings\footer-widgets.php on line 8
+
+2019-05-17T14:59:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\base\skin-base.php on line 4
+
+2019-05-17T15:00:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-05-17T15:01:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor\includes\widgets\toggle.php on line 4
+
+2019-05-17T15:01:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-includes\functions.php on line 5462
+
+2019-05-17T15:08:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\contact-form-7\modules\recaptcha.php on line 3
+
+2019-05-17T15:09:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\ocean-extra\includes\widgets\about-me.php on line 9
+
+2019-05-17T15:10:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\elementor-addon-widgets\vendor\composer\ClassLoader.php on line 354
+
+2019-05-17T15:10:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-exporters.php on line 9
+
